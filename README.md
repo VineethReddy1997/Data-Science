@@ -1,2 +1,2 @@
 # Data-Science-
-you will learn data science projects implementation
+you will learn about data science different projects implementation
